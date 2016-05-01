@@ -1,0 +1,14 @@
+layout_spectrum: 1
+typography_spectrum: 0.2629438
+color:
+  saturation: 1
+  brandStrength: 0.9833128
+  lightness: 1
+  rhythmicContrast: 1
+  brandColors:
+    - '#17BEBB'
+    - '#2E282A'
+    - '#CD5334'
+    - '#EDB88B'
+    - '#FAD8D6'
+name: Preaching to the Choir
